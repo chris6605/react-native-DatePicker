@@ -1,5 +1,5 @@
 # react-native-DatePicker
-类似 iOS 上的时间选择控件
+类似 iOS 上的时间选择控件 純JS实现
 用法如下:
  <DatePicker ref={ref => this.datePicker = ref}
                     unit={['年', '月', '日']}
